@@ -1,0 +1,12 @@
+﻿{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:poisonous_potato"
+        }
+    ],
+    "result": {
+        "item": "minecraft:potato",
+        "count": 1
+    }
+}
